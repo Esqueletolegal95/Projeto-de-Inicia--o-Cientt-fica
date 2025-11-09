@@ -1,0 +1,7 @@
+<View>
+  <Image name="image" value="$image" zoom="true"/>
+  <RectangleLabels name="label" toName="image">
+    <Label value="buy" background="green"/>
+    <Label value="sell" background="red"/>
+  </RectangleLabels>
+</View>
