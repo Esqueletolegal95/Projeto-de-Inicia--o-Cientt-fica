@@ -1,0 +1,4 @@
+train: /home/pedro/Documentos/GitHub/Projeto-de-Inicia--o-Cientt-fica/dataset_yolo_zones/images/train
+val: /home/pedro/Documentos/GitHub/Projeto-de-Inicia--o-Cientt-fica/dataset_yolo_zones/images/val
+nc: 3
+names: ['BUY','SELL','NONE']

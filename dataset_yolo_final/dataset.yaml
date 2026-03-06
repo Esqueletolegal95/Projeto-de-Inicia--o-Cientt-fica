@@ -1,0 +1,17 @@
+# data.yaml
+
+# Caminho raiz do dataset (pode ser caminho absoluto ou relativo)
+path: '' 
+
+# Pastas de imagens relativas ao 'path' acima
+train: train/images
+val: val/images
+test:  # opcional (pode deixar vazio se não tiver split de teste separado)
+
+# Configuração das Classes
+nc: 2  # Número de classes (Number of Classes)
+
+# Nomes das classes (deve seguir a ordem do seu script python: 0 e 1)
+names:
+  0: buy
+  1: sell

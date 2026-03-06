@@ -1,0 +1,28 @@
+{
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "description": "Dataset WDO 15min - Auto-Labeling (Fractal + 15pts Target)",
+    "contributor": "Pedro Henrique Santos Silva",
+    "date_created": "2025-12-03"
+  },
+  "licenses": [
+    {
+      "id": 1,
+      "name": "Proprietary",
+      "url": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "buy",
+      "supercategory": "setup"
+    },
+    {
+      "id": 1,
+      "name": "sell",
+      "supercategory": "setup"
+    }
+  ]
+}
